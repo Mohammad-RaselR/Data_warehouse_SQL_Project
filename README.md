@@ -62,3 +62,24 @@ These insights empower stakeholders with **key business metrics** to support **s
 
 ## 🧱 Architecture Overview
 
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 👋 About Me
+
+Hi! I'm **Mohammad Rasel**, a passionate **Data / Software Engineer/Machine Learning** interested in:
+- Data Engineering
+- Data Warehousing
+- Analytics & BI
+- Backend Systems
+- Machine Learning
+
+This project is part of my learning and portfolio journey 🚀
+
+📧 Email: raselhosen229@gmail.com  
+🌐 GitHub: https://github.com/Mohammad-RaselR  
